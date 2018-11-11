@@ -1,3 +1,14 @@
 # ignore all logs
 *.log
+# Eclipse Core      
+.project
+.idea
+.settings
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# sbteclipse plugin
+.target
+
+
 
